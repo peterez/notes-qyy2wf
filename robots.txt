@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://peterez.github.io/notes-qyy2wf/sitemap.xml
